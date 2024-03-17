@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Sambosa",
+  "identifier": "texture:153416-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "e78d17f13687a9599837480ecc0b8794",
+  "assetLocator": "textures/Sambosa.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 738,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1000,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "e78d17f13687a9599837480ecc0b8794",
+      "colorCount": 109006,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.782859563506914,
+      "pixelsHigh": 738,
+      "pixelsWide": 1000
+    }
+  ]
+}

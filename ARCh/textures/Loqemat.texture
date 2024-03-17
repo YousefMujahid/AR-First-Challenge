@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Loqemat",
+  "identifier": "texture:155608-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "776c522e6e40485f56c7a57d1dff6c84",
+  "assetLocator": "textures/Loqemat.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 750,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "776c522e6e40485f56c7a57d1dff6c84",
+      "colorCount": 70834,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.9537598524529995,
+      "pixelsHigh": 500,
+      "pixelsWide": 750
+    }
+  ]
+}

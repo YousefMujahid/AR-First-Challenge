@@ -1,0 +1,924 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "06",
+  "identifier": "master3_d_object_model:157392-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+  "sourceIdentifier": "asset_collection_model:157396-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "depth": 0.3476051092147827,
+  "globalScaleFactor": 0.4111433937554648,
+  "height": 3.067753791809082,
+  "hidden": false,
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "width": 4.864482879638672,
+  "children": [
+    {
+      "modelName": "sceneObject",
+      "name": "CINEMA_4D_Editor",
+      "identifier": "sceneObject:157218-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0.11770570278167725,
+        "ry": 1.1046055555343628,
+        "rz": 0.131613627076149,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": -1.2699599266052246,
+        "y": -0.14176930487155914,
+        "z": 2.225654363632202
+      }
+    },
+    {
+      "modelName": "sceneObject",
+      "name": "01",
+      "identifier": "sceneObject:157220-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "hidden": false,
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "shapeColor": "0xff808080",
+      "shapeType": 0,
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": -0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": -0.1487833559513092,
+        "y": -0.004886488895863295,
+        "z": 0
+      },
+      "children": [
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj65",
+          "identifier": "mesh:157222-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj65",
+          "numberOfFaces": 11222,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157226-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": -0.04537832736968994,
+            "ry": -0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": -0.18651369214057922,
+            "y": -0.37896063923835754,
+            "z": 0.0068579912185668945
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157224-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157229-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157230-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj63",
+          "identifier": "mesh:157232-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj63",
+          "numberOfFaces": 10990,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157236-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": -0.08326736837625504,
+            "ry": 0.007460158783942461,
+            "rz": -0.0006226215627975762,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0.44175925850868225,
+            "y": -0.291083425283432,
+            "z": 0.0001925706455949694
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157234-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157239-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157240-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj51",
+          "identifier": "mesh:157242-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj51",
+          "numberOfFaces": 9616,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157246-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": -0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0.16484719514846802,
+            "y": 0.43430671095848083,
+            "z": 0.00019257086387369782
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157244-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157249-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157250-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj50",
+          "identifier": "mesh:157252-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj50",
+          "numberOfFaces": 9616,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157256-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": -0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": -0.1877712458372116,
+            "y": 0.506526529788971,
+            "z": 0.00019257086387369782
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157254-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157259-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157260-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj49",
+          "identifier": "mesh:157262-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj49",
+          "numberOfFaces": 10646,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157266-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0.11516384035348892,
+            "ry": -0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 0.9999999403953552,
+            "sz": 0.9999999403953552,
+            "x": 0.13912400603294373,
+            "y": 0.18580186367034912,
+            "z": 0.00932740792632103
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157264-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157269-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157270-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj48",
+          "identifier": "mesh:157272-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj48",
+          "numberOfFaces": 10578,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157276-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0.14365799725055695,
+            "ry": 0.02829994633793831,
+            "rz": 0.0040931436233222485,
+            "sx": 0.9999999403953552,
+            "sy": 0.9999999403953552,
+            "sz": 1,
+            "x": -0.2846929430961609,
+            "y": -0.011330749839544296,
+            "z": 0.0001925708493217826
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157274-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157279-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157280-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj36",
+          "identifier": "mesh:157282-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj36",
+          "numberOfFaces": 9848,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157286-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": -0.15067259967327118,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": -0.2685948312282562,
+            "y": -0.3503877520561218,
+            "z": 0.00034790587960742414
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157284-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157289-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157290-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj35",
+          "identifier": "mesh:157292-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj35",
+          "numberOfFaces": 11668,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157296-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": -0.1530969887971878,
+            "ry": 0.07258868962526321,
+            "rz": 0.00849898997694254,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0.5098934769630432,
+            "y": 0.09654910862445831,
+            "z": 0.00006130065594334155
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157294-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157299-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157300-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj34",
+          "identifier": "mesh:157302-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj34",
+          "numberOfFaces": 11390,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157306-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": -0.19547687470912933,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": -0.43203774094581604,
+            "y": -0.18592189252376556,
+            "z": 0.0001136540959123522
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157304-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157309-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157310-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj33",
+          "identifier": "mesh:157312-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj33",
+          "numberOfFaces": 7800,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157316-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0.04884234815835953,
+            "ry": -0.20943951606750488,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": -0.4203203618526459,
+            "y": -0.29036423563957214,
+            "z": -0.004760585725307465
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157314-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157319-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157320-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj32",
+          "identifier": "mesh:157322-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj32",
+          "numberOfFaces": 11398,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157326-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0.2862339913845062,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": -0.4058455526828766,
+            "y": -0.19432012736797333,
+            "z": -0.0037636738270521164
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157324-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157329-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157330-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj31",
+          "identifier": "mesh:157332-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj31",
+          "numberOfFaces": 11006,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157336-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": -0.1139274537563324,
+            "ry": 0.042933810502290726,
+            "rz": -0.043950796127319336,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0.4911140501499176,
+            "y": -0.1320212036371231,
+            "z": 0.00019257086387369782
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157334-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157339-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157340-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj30",
+          "identifier": "mesh:157342-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj30",
+          "numberOfFaces": 11170,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157346-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": -0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0.23859167098999023,
+            "y": 0.06058916449546814,
+            "z": 0.00019268947653472424
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157344-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157349-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157350-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj29",
+          "identifier": "mesh:157352-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj29",
+          "numberOfFaces": 8050,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157356-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": -0.2583087384700775,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0.5070496797561646,
+            "y": 0.09766799211502075,
+            "z": 0.00019256303494330496
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157354-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157359-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157360-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj28",
+          "identifier": "mesh:157362-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj28",
+          "numberOfFaces": 12248,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157366-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": -0.09449122846126556,
+            "ry": 0.36302849650382996,
+            "rz": 0,
+            "sx": 0.9999999403953552,
+            "sy": 0.9999999403953552,
+            "sz": 0.9999999403953552,
+            "x": 0.5103906393051147,
+            "y": 0.22423700988292694,
+            "z": 0.0002817133499775082
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157364-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157369-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157370-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj27",
+          "identifier": "mesh:157372-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj27",
+          "numberOfFaces": 10966,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157376-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0.18609413504600525,
+            "rz": 0,
+            "sx": 0.9999999403953552,
+            "sy": 1,
+            "sz": 0.9999999403953552,
+            "x": -0.3400651514530182,
+            "y": 0.5967224836349487,
+            "z": 0.0001925709511851892
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157374-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157379-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157380-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "modelName": "mesh",
+          "name": "Retopo_obj26",
+          "identifier": "mesh:157382-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": "back|front",
+          "castShadow": false,
+          "hidden": false,
+          "nodeName": "Retopo_obj26",
+          "numberOfFaces": 9664,
+          "outputVisibility": "preview|capture",
+          "physicsEnabled": false,
+          "prefabIdentifier": "gltf:157386-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+          "receiveShadow": false,
+          "renderPass": "main_scene",
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": -0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": -0.18091511726379395,
+            "y": 0.36718663573265076,
+            "z": 0.00022897041344549507
+          },
+          "useEmbeddedBlendshapes": false,
+          "children": [
+            {
+              "modelName": "surfaces",
+              "identifier": "surfaces:157384-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+              "children": [
+                {
+                  "modelName": "surface",
+                  "name": "surface0",
+                  "identifier": "surface:157389-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "isMaterialIdentifierEnabled": true,
+                  "materialIdentifier": "dependent_material_model:157214-2a252995-667e-46f3-b937-bcc9a1c2bbbd",
+                  "surfaceGroupIdentifier": "157390-2a252995-667e-46f3-b937-bcc9a1c2bbbd"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
